@@ -1,4 +1,4 @@
-package comfive.Math;
+package comFive_常用类.Math;
 
 /**
  * @author 韩顺平
